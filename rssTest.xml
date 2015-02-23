@@ -440,6 +440,85 @@ Any assistance would be much appreciated.<p>]]></description>
 		<slash:comments>1</slash:comments>
 	
 	</item>
+	
+			<item>
+		<title>Julia Test Post - full content</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 16:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<guid isPermaLink="false">wordpress.org/support/topic/how-to-remove-content-encoded-from-rss-20-feed</guid>
+
+		<description><![CDATA[<p><p>]]></description>
+		<content:encoded><![CDATA[<p>Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.Hello,
+
+I've closed by previous query and opened this new one with a more specific question:
+
+How can I remove Content: Encoded (html formatting) from an RSS 2 feed?
+
+I believe it's somewhere on the feed-rss2.php page, but what sort changes to the code do I need to make?
+
+Also, instead of fooling around with the feed-rss2.php page, is it possible to add a function to the site theme's functions.php? That would prevent my needing to hack the feed-rss2.php page each time WP is upgraded.
+
+Any assistance would be much appreciated.http://codex.wordpress.org/Customizing_Feeds<p>]]></content:encoded>
+
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+	
     </channel>
 
 </rss>
