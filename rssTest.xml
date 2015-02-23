@@ -318,7 +318,82 @@ Many Unix systems store epoch dates as a signed 32-bit integer, which might caus
 	
 	</item>
 
+	<item>
+		<title>Julia Test Post - encoded data blank</title>
+		<link>http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 13:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<guid isPermaLink="false">http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</guid>
+
+
+		<description><![CDATA[test test test &#8230; <a href="http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p><p>]]></content:encoded>
+
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
 	
+	</item>
+
+		<item>
+		<title>Julia Test Post - encoded data blank</title>
+		<link>http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 13:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<guid isPermaLink="false">http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</guid>
+
+
+		<description><![CDATA[test test test &#8230; <a href="http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p><p>]]></content:encoded>
+
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+	
+		<item>
+		<title>Julia Test Post - good article</title>
+		<link>https://developer.mozilla.org/en-US/docs/Web/RSS/Article/Why_RSS_Content_Module_is_Popular_-_Including_HTML_Contents</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 14:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<guid isPermaLink="false">http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</guid>
+
+
+		<description><![CDATA[test test test &#8230; <a href="http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p>Why RSS Content Module is Popular - Including HTML Contents<p>]]></content:encoded>
+
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+		<item>
+		<title>Julia Test Post - incorrect timestamp</title>
+		<link>https://books.google.com.ua/books?id=YEx95WUGP5AC&pg=PA265&lpg=PA265&dq=rss+%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD+%D0%B2+%D0%B2%D0%B8%D0%B4%D0%B5&source=bl&ots=zOJU7CcSQ6&sig=gZ9Qgo42F__FLbosziWT87jgUAM&hl=ru&sa=X&ei=5WzbVOKbOISuUfvjgfgG&ved=0CFcQ6AEwCQ</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 16:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+
+		<description><![CDATA[test test test &#8230; <a href="">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p>Why RSS Content Module is Popular - Including HTML Contents<p>]]></content:encoded>
+
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
     </channel>
 
 </rss>
