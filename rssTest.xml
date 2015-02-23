@@ -209,7 +209,7 @@
 		</media:content>
 	</item>
 	
-				<item>
+	<item>
 		<title>Julia Test Post - link not good</title>
 		<link>fizmatik-kharkiv.ua/math2</link>
 		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
@@ -230,7 +230,7 @@
 		</media:content>
 	</item>
 	
-					<item>
+	<item>
 		<title>Julia Test Post - link  good</title>
 		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
 		<pubDate>Mon, 23 Feb 2015 10:40:02 +0000</pubDate>
@@ -245,6 +245,79 @@
 		<slash:comments>1</slash:comments>
 	
 	</item>
+	
+	<item>
+		<title>Julia Test Post - russian text, valid link</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 11:40:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		
+		<guid isPermaLink="false">http://es01.dev.dal.us.publishthis.com:9200/content/_search?q=docId:8629c1a4a209b7405180b00edc354df6135d1f04</guid>
+
+		<description><![CDATA[????? — ?????????? ?????? ? ?????... &#8230; <a href="http://es01.dev.dal.us.publishthis.com:9200/content/_search?q=docId:8629c1a4a209b7405180b00edc354df6135d1f04">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>Epoch & Unix Timestamp Conversion Tools</p>]]></content:encoded>
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+	<item>
+		<title>Julia Test Post - link without http, empty desc</title>
+		<link>test.com</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 11:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+
+		<description><![CDATA[ &#8230; <a href="http://es01.dev.dal.us.publishthis.com:9200/content/_search?q=docId:8629c1a4a209b7405180b00edc354df6135d1f04">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+				<content:encoded><![CDATA[<p>
+<h2>What is epoch time?</h2>
+The <b>Unix epoch</b> (or <b>Unix time</b> or <b>POSIX time</b> or <b>Unix timestamp</b>) is the number of seconds that have elapsed since January 1, 1970 (midnight UTC/GMT), not counting leap seconds (in ISO 8601: 1970-01-01T00:00:00Z).
+Literally speaking the epoch is Unix time 0 (midnight 1/1/1970), but 'epoch' is often used as a synonym for 'Unix time'.
+Many Unix systems store epoch dates as a signed 32-bit integer, which might cause problems on January 19, 2038 (known as the Year 2038 problem or Y2038).
+&nbsp;<p>]]></content:encoded>
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+	<item>
+		<title>Julia Test Post - BC</title>
+		<link>http://stream-tv-series.me/2013/02/09/how-i-met-your-mother-season-1-episode-1-pilot/</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 12:40:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+
+		<description><![CDATA[stream-tv-series.me/2013/02/09/how-i-met-your-mother-season-1-episode-1-pilot/ &#8230; <a href="http://stream-tv-series.me/2013/02/09/how-i-met-your-mother-season-1-episode-1-pilot/">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+	<item>
+		<title>Julia Test Post - link blank, guid has valid link</title>
+		<link></link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Mon, 23 Feb 2015 12:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[MacOS]]></category>
+		<guid isPermaLink="false">http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal</guid>
+
+
+		<description><![CDATA[test test test &#8230; <a href="http://www.hr-portal.ru/page/kakie-sushchestvuyut-vidy-podpiski-na-novosti-hr-portal">Continue reading <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
 	
     </channel>
 
