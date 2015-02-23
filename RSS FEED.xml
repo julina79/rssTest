@@ -146,7 +146,7 @@
 
 			<item>
 		<title>Content:encoded: good link. WordPress 4.1.1 Maintenance Release</title>
-		<link>WordPress News</link>
+		<link>https://wordpress.org/news/2015/02/wordpress-4-1-1/</link>
 		<pubDate>Mon, 23 Feb 2015 10:20:02 +0000</pubDate>
 		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
 				<category><![CDATA[WordPress]]></category>
@@ -181,7 +181,6 @@
 			<media:title type="html">ilya40umov</media:title>
 		</media:content>
 	</item>
-
 	
     </channel>
 
