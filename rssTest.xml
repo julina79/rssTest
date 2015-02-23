@@ -10,10 +10,10 @@
         xmlns:media="http://search.yahoo.com/mrss/">
 
     <channel>
-        <title>With content:encoded field.</title>
-        <link>https://raw.githubusercontent.com/ilya40umov/rss-feeds/master/content-encoded-rss-no-valid-link.xml</link>
+        <title>Julia test RSS.</title>
+        <link>https://raw.githubusercontent.com/julina79/rssTest/master/rssTest.xml</link>
         <description>An RSS feed with content:encoded and invalid links.</description>
-        <lastBuildDate>Fri, 30 Jan 2015 00:00:01 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 23 Feb 2015 00:00:01 +0000</lastBuildDate>
         <language>en-US</language>
         <sy:updatePeriod>yearly</sy:updatePeriod>
         <sy:updateFrequency>1</sy:updateFrequency>
@@ -85,6 +85,8 @@
 		</media:content>
 	</item>
 		        
+	
+	
     </channel>
 
 </rss>
