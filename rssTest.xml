@@ -685,7 +685,7 @@ Any assistance would be much appreciated.http://codex.wordpress.org/Customizing_
 	</item>
 
 		<item>
-		<title>Full Content - post#13 - is field content:encoded</title>
+		<title>Full Content - post#13 - is field content:encoded, bad link</title>
 		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
 		<pubDate>Wed, 25 Feb 2015 12:30:02 +0000</pubDate>
 		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
@@ -703,6 +703,23 @@ Any assistance would be much appreciated.http://codex.wordpress.org/Customizing_
 	
 	</item>
 		
-	</channel>
+		<item>
+		<title>Full Content - post#14 - is field content:encoded, good link</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 12:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<guid isPermaLink="false">http://www.latimes.com/business/autos/la-fi-cadillac-ats-recall-20150224-story.html</guid>
+
+		<description><![CDATA[GM recalls Cadillac ATS sedan to fix sunroof controls &#8230; <a href="http://www.latimes.com/business/autos/la-fi-cadillac-ats-recall-20150224-story.html">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p>GM recalls Cadillac ATS sedan to fix sunroof controls</p>]]></content:encoded>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+		</channel>
 
 </rss>
