@@ -636,6 +636,73 @@ Any assistance would be much appreciated.http://codex.wordpress.org/Customizing_
 	
 	</item>
 
-    </channel>
+		<item>
+		<title>Full Content - post#10 - no field content:encoded</title>
+		<link>http://www.latimes.com/nation/nationnow/la-na-nn-american-sniper-trial-20150224-story.html</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 12:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+
+		<description><![CDATA[roubled veteran convicted of capital murde... &#8230; <a href="http://www.latimes.com/nation/nationnow/la-na-nn-american-sniper-trial-20150224-story.html">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+	
+		<item>
+		<title>Full Content - post#11 - no field content:encoded</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 12:10:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<guid isPermaLink="false">http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1</guid>
+
+		<description><![CDATA[Why are women leaving the tech ind... &#8230; <a href="http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+	
+    		<item>
+		<title>Full Content - post#12 - no field content:encoded, bad link</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 12:20:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<guid isPermaLink="false">la-fi-women-tech-20150222-story.html#page=1</guid>
+
+		<description><![CDATA[Why are women leaving the tech ind... &#8230; <a href="http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+		<item>
+		<title>Full Content - post#13 - is field content:encoded</title>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 12:30:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<guid isPermaLink="false">html#page=1</guid>
+
+		<description><![CDATA[Why are women leaving the tech ind... &#8230; <a href="http://www.latimes.com/business/la-fi-women-tech-20150222-story.html#page=1">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p><div class="contentasset"><!-- dwMarker="content" dwContentID="cdeBaiaaiss0MaaadhIfYRLbMB" -->
+			<h2>You are using an <strong>outdated</strong> browser.</h2>
+		</div> <!-- End contentasset --></p>]]></content:encoded>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+		
+	</channel>
 
 </rss>
