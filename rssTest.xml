@@ -550,6 +550,59 @@ Any assistance would be much appreciated.http://codex.wordpress.org/Customizing_
 		<slash:comments>1</slash:comments>
 	
 	</item>
+
+		<item>
+		<title>Full Content - post#1 - blank ch. in content:encoded</title>
+		<link>http://time.com/3616154/top-10-best-movies-2014/</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 10:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+
+		<description><![CDATA[PublishThis HTML Generator for Mixes.. &#8230; <a href="http://time.com/3616154/top-10-best-movies-2014/">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[        ]]></content:encoded>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+		<item>
+		<title>Full Content - post#2 - empty content:encoded</title>
+		<link>http://pn.com.ua/ct/1232/?fo=724</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 10:50:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+
+		<description><![CDATA[tets - smartphones - test.. &#8230; <a href="http://pn.com.ua/ct/1232/?fo=724">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
+
+		<item>
+		<title>Full Content - post#3 - has content:encoded</title>
+		<link>http://clasno.com.ua/products/s=3;sl=1549/page:5</link>
+		<comments>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 11:10:02 +0000</pubDate>
+		<dc:creator><![CDATA[julia.dolgopolova]]></dc:creator>
+				<category><![CDATA[RSS Testing]]></category>
+		<category><![CDATA[Smartphones]]></category>
+
+		<description><![CDATA[tets - smartphones - test.. &#8230; <a href="http://pn.com.ua/ct/1232/?fo=724">Follow here <span class="meta-nav">&#8594;</span></a><img alt="" border="0" src="http://pixel.wp.com/b.gif?host=ilya40umov.com&#038;blog=47779055&#038;post=140&#038;subd=ilya40umov&#038;ref=&#038;feed=1" width="1" height="1" />]]></description>
+		<content:encoded><![CDATA[<p><div class="contentasset"><!-- dwMarker="content" dwContentID="cdeBaiaaiss0MaaadhIfYRLbMB" -->
+			<h2>You are using an <strong>outdated</strong> browser.</h2>
+		</div> <!-- End contentasset --></p>]]></content:encoded>
+
+			<wfw:commentRss>http://ilya40umov.com/2014/11/11/intellij-idea-13-on-macos-with-jdk-1-7/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	
+	</item>
 	
     </channel>
 
